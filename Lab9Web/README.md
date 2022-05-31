@@ -6,7 +6,7 @@ Kelas : TI.20.B.1<br>
 
 ### Tugas
 Berikut adalah tugas untuk praktikum 9 pertemuan 11<br>
-![Screenshot_9.png](Pic/Screenshot_9.png)<br>
+![Screenshot_9.png](Picture/Screenshot_9.png)<br>
 
 ### Pengerjaan
 
