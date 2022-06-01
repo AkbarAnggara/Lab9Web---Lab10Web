@@ -9,7 +9,7 @@ Berikut adalah tugas untuk praktikum 10 pertemuan 11<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 
 ### Pengerjaan
-1. Kita buka telerbih dahulu xampp control<br>
+1. Kita buka terlebih dahulu xampp control<br>
 2. Selanjutnya kita buat file mobil.php seperti berikut ini<br>
 ![Screenshot_5.png](Pic/Screenshot_5.png)<br>
 Berikut adalah tampilannya<br>
